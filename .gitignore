@@ -1,0 +1,21 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+# Platform builds
+android/.gradle/
+android/app/*.keystore
+ios/Pods/
+macos/Flutter/ephemeral/
+linux/Flutter/ephemeral/
+windows/Flutter/ephemeral/
+# IDE
+.idea/
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+# Generated
+**/GeneratedPluginRegistrant.*
